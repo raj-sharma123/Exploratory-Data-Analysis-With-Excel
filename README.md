@@ -1,4 +1,7 @@
 # Exploratory Data Analysis With Excel of Titanic Dataset
+![Titanic](https://github.com/user-attachments/assets/69e8fbb9-f716-4ed8-bd32-b93a72d8f786)
+
+
 ## Introduction
 
 The **RMS Titanic** was a British passenger liner that tragically sank on **April 15, 1912**, during its maiden voyage from **Southampton**, England, to **New York City**, after colliding with an iceberg. The **Titanic dataset** is a widely recognized dataset in the data science community and is frequently used for exploratory data analysis and machine learning practice.
